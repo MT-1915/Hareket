@@ -47,14 +47,4 @@ def sol():
     
 
 
-
-
-
-
-
-
-
-
-
-
 GPIO.cleanup()
